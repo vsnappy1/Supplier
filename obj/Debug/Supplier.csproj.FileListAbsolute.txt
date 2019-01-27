@@ -1,0 +1,33 @@
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\bin\Debug\Supplier.exe.config
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\bin\Debug\Supplier.exe
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\bin\Debug\Supplier.pdb
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.csprojResolveAssemblyReference.cache
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.Admin_Login.resources
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.Admin_Tool_Inventory.resources
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.Billing.resources
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.mainScreen.resources
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.Properties.Resources.resources
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.User_Login.resources
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.csproj.GenerateResource.Cache
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.exe
+c:\users\vishal kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.pdb
+C:\Users\Vishal Kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.Developer_Tool.resources
+C:\Users\Vishal Kumar\documents\visual studio 2017\Projects\Supplier\Supplier\obj\Debug\Supplier.Developer.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.csprojResolveAssemblyReference.cache
+C:\Supplier\Supplier\obj\Debug\Supplier.Admin_Login.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.Admin_Tool_Inventory.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.Billing.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.Developer_Tool.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.Developer.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.mainScreen.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.Properties.Resources.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.User_Login.resources
+C:\Supplier\Supplier\obj\Debug\Supplier.csproj.GenerateResource.Cache
+C:\Supplier\Supplier\obj\Debug\Supplier.exe
+C:\Supplier\Supplier\obj\Debug\Supplier.pdb
+C:\Supplier\Supplier\bin\Debug\Stock_Database.mdf
+C:\Supplier\Supplier\bin\Debug\Stock_Database_log.ldf
+C:\Supplier\Supplier\bin\Debug\Supplier.exe.config
+C:\Supplier\Supplier\bin\Debug\Supplier.exe
+C:\Supplier\Supplier\bin\Debug\Supplier.pdb
+C:\Supplier\Supplier\obj\Debug\Supplier.Final_Bill.resources
